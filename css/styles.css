@@ -168,5 +168,12 @@ body {
       .hide-md-lg {
         display: none;
       }
+      input, .btn{
+        width: 0;
+      }
+      .fb {
+        width: 100%;
+      }
+
     }
     
